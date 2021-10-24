@@ -1,6 +1,7 @@
 {
   "name": "facerecognitionbrain",
   "version": "0.1.0",
+  "homepage": "https://nanaNdrew.github.io/smartbrainv2",
   "private": true,
   "dependencies": {
     "react": "^17.0.2",
