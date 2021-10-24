@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smartbrainv2/static/css/main.be0d9d63.chunk.css",
+    "main.js": "/smartbrainv2/static/js/main.f36fbba9.chunk.js",
+    "main.js.map": "/smartbrainv2/static/js/main.f36fbba9.chunk.js.map",
+    "runtime-main.js": "/smartbrainv2/static/js/runtime-main.5fdec1b1.js",
+    "runtime-main.js.map": "/smartbrainv2/static/js/runtime-main.5fdec1b1.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/smartbrainv2/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.ab878ea0.chunk.js": "/smartbrainv2/static/js/2.ab878ea0.chunk.js",
+    "static/js/2.ab878ea0.chunk.js.map": "/smartbrainv2/static/js/2.ab878ea0.chunk.js.map",
+    "index.html": "/smartbrainv2/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/smartbrainv2/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.be0d9d63.chunk.css.map": "/smartbrainv2/static/css/main.be0d9d63.chunk.css.map",
+    "static/js/2.ab878ea0.chunk.js.LICENSE.txt": "/smartbrainv2/static/js/2.ab878ea0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fdec1b1.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.ab878ea0.chunk.js",
+    "static/css/main.be0d9d63.chunk.css",
+    "static/js/main.f36fbba9.chunk.js"
+  ]
+}
