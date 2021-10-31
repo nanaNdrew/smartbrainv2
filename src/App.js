@@ -10,10 +10,10 @@ import Rank from './components/Rank/Rank';
 import './App.css';
  
 const particlesOptions = {
-  //customize this to your liking
+  //customizable
   particles: {
     number: {
-      value: 30,
+      value: 40,
       density: {
         enable: true,
         value_area: 800
@@ -76,7 +76,7 @@ class App extends Component {
 
   onButtonSubmit = () => {
     this.setState({imageUrl: this.state.input});
-      fetch('http://https://morning-wave-77449.herokuapp.com/', {
+      fetch('https://nanaNdrew.github.io/smartbrainv2', {
         method: 'post',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
@@ -86,7 +86,7 @@ class App extends Component {
       .then(response => response.json())
       .then(response => {
         if (response) {
-          fetch('http://https://morning-wave-77449.herokuapp.com/', {
+          fetch('https://nanaNdrew.github.io/smartbrainv2', {
             method: 'put',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({
